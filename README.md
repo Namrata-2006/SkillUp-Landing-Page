@@ -26,5 +26,7 @@ Purple and lavender colors create a modern, friendly learning experience. Clear 
 https://www.figma.com/design/E7ERJm2weOUPw79Ai6YLiE/SkillUp-Landing-Page?node-id=3-3&t=j8rIsHg7luqY4TrI-1
 
 ## Screenshots
-- Desktop Landing Page.png
-- Mobile Landing Page.png
+<img width="1442" height="1298" alt="Desktop Landing Page" src="https://github.com/user-attachments/assets/c0152580-3983-4de2-bc5b-8ac304e4f7eb" />
+<img width="390" height="1600" alt="Mobile Landing Page" src="https://github.com/user-attachments/assets/de29ac5b-5bfd-4942-804a-f1474d49cfa1" />
+
+
